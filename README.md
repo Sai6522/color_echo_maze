@@ -106,14 +106,6 @@ Each level has a time limit that increases with level progression. You must find
 
 You can play Color Echo Maze online on Replit: [Color Echo Maze on Replit](https://replit.com/@VENKATA-SAI-PR4/colorechomaze)
 
-## Future Enhancements
-
-- Additional pulse types with unique effects
-- Power-ups and collectibles
-- Multiple game modes
-- High score system
-- Custom maze editor
-
 ## Credits
 
 - Game design and programming: Venkata Sai Prasad Pulaparthi
