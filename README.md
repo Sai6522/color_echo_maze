@@ -1,1 +1,0 @@
-# color_echo_maze
