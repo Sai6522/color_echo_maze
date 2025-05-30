@@ -55,8 +55,8 @@ The game features automatic pulses every 4 seconds, but you can also manually tr
 
 1. Clone this repository:
 ```
-git clone https://github.com/yourusername/color-echo-maze.git
-cd color-echo-maze
+git clone https://github.com/Sai6522/color_echo_maze.git
+cd color_echo_maze
 ```
 
 2. Install the required dependencies:
@@ -104,7 +104,7 @@ Each level has a time limit that increases with level progression. You must find
 
 ## Try It Online
 
-You can play Color Echo Maze online on Replit: [Color Echo Maze on Replit](https://replit.com/@username/color-echo-maze)
+You can play Color Echo Maze online on Replit: [Color Echo Maze on Replit](https://replit.com/@VENKATA-SAI-PR4/colorechomaze)
 
 ## Future Enhancements
 
@@ -116,8 +116,8 @@ You can play Color Echo Maze online on Replit: [Color Echo Maze on Replit](https
 
 ## Credits
 
-- Game design and programming: Your Name
-- Sound effects: [Source of sound effects]
+- Game design and programming: Venkata Sai Prasad Pulaparthi
+- Sound effects: [Source of sound effects from Mixkit]
 - Font: Arial
 
 ---
