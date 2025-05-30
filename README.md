@@ -2,7 +2,7 @@
 
 A pulse-based maze exploration game where you navigate through a procedurally generated maze using color-coded pulses to reveal hidden elements.
 
-![Color Echo Maze](https://github.com/yourusername/color-echo-maze/raw/main/screenshots/gameplay.png)
+![Color Echo Maze](https://github.com/Sai6522/color_echo_maze/raw/main/color_echo_maze/Screenshot 2025-05-30 153851.png)
 
 ## Game Description
 
