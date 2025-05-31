@@ -109,7 +109,7 @@ You can play Color Echo Maze online on Replit: [Color Echo Maze on Replit](https
 ## Credits
 
 - Game design and programming: Venkata Sai Prasad Pulaparthi
-- Sound effects: [Source of sound effects from Mixkit]
+- Sound effects: [Source of sound effects](https://mixkit.co/free-sound-effects/game/)
 - Font: Arial
 
 ---
